@@ -16,4 +16,4 @@ MENJALANKAN SCRIPT
 
 $cd Kalkulator-Sederhana
 
-$python2 Run.py
+$python Run.py
